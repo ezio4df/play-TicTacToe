@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+
+models/gomoku_a2c_epoch_*.pth
